@@ -8,7 +8,7 @@
 # KALI LINUX 
 
 ```
-$ git clone 
+$ git clone https://github.com/d5tr/Hide_Me.git
 ```
 ```
 $ cd Hide_Me
